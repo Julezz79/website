@@ -13,7 +13,7 @@
 ## 📁 Dateistruktur
 
 ```
-/Users/user/Desktop/Website/
+/Users/user/Dokumente/Praxis/Website/
 ├── index.html                 # Hauptseite (Startseite)
 ├── impressum.html             # Impressum (Rechtliche Informationen)
 ├── datenschutz.html           # Datenschutzerklärung (DSGVO)
@@ -212,7 +212,7 @@ nav.querySelectorAll('a').forEach(a =>
 ### Lokale Entwicklung
 ```bash
 # 1. In Projektordner navigieren
-cd /Users/user/Desktop/Website
+cd /Users/user/Dokumente/Praxis/Website
 
 # 2. HTTP-Server starten (Port 8000)
 npm install -g http-server
